@@ -7,7 +7,7 @@ El estudio se centra en el Carcinoma Papilar (THCA), la neoplasia endocrina más
 
 METODOLOGÍA Y PREPARACIÓN DE DATOS:
 Para garantizar la robustez de los resultados, se aplicó un riguroso proceso de limpieza:
--Normalización: Uso de datos transformados en $log_2$ para comparar niveles de abundancia de mRNA de forma estadísticamente justa5.
+-Normalización: Uso de datos transformados en log_2 para comparar niveles de abundancia de mRNA de forma estadísticamente justa5.
 -Filtrado de Ruido: Eliminación de genes con baja expresión media ($<0.5$) y baja variabilidad (percentil 25), reduciendo el set inicial de 19,927 genes a aquellos con información diferencial real.
 -Pureza Tumoral: Solo se examinaron muestras con más del 60% de pureza para evitar la "dilución de la señal" causada por células del estroma o inmunes.
 
