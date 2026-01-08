@@ -17,7 +17,7 @@ Análisis Clínico (Univariante y Bivariante):
 -Agresividad por Histología: La variante Tall Cell es intrínsecamente más agresiva, diagnosticándose mayoritariamente en Estadio III, mientras que la variante Folicular tiende a ser menos propensa a la afectación ganglionar.
 -El Factor Edad: Existe una dependencia crítica de la edad en la clasificación clínica. En pacientes jóvenes (<55 años), incluso con alta carga ganglionar, se suele categorizar como Estadio I, mientras que en mayores de 55 la clasificación sigue una estructura más tradicionaL.
 Análisis Genómico (Multivariante):
--Firma Genética: Mediante Volcano Plots, se identificaron genes clave (como COL11A1, MMP13, CCL17) sobreexpresados en estadios avanzados.
+-Firma Genética: Mediante Volcano Plots, se identificaron genes clave sobreexpresados en estadios avanzados.
 -Diseminación Ganglionar: El perfil genético asocia sus cambios de expresión de forma más fiable a la presencia de ganglios (N1) que al estadio clínico general.
 -Diferencias por Edad: En pacientes mayores de 55 años, la señal genética de agresividad es más compacta y uniforme; en jóvenes, la "maquinaria de invasión" puede encenderse antes de que los ganglios sean físicamente detectables.
 
